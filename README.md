@@ -26,9 +26,6 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: MONISH N
 RegisterNumber:  212223240097
 */
-```
-```
-``
 import pandas as pd
 data=pd.read_csv("/content/Employee.csv")
 data.head()
